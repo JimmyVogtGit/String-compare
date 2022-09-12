@@ -37,7 +37,7 @@ saisie2.pack()
 label1 = Label(window, textvariable=text)
 
 
-button = Button(text="Compare!", command=affiche)
+button = Button(text="Compare : ", command=affiche)
 button.pack()
 
 
